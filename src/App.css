@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  height: 781px;
+  background-color: #282c34;
+  padding: 200px 750px;
+}
+
+.xx {
+  font-family: sans-serif;
+  text-align: center;
+  width: 177px;
+  height: 290px;
+  background-color: #0099cc;
+  padding: 0 4px;
+  border-radius: 5px;
+}
+
+.x {
+  height: 35px;
+  width: 155px;
+  text-align: right;
+  margin: 20px 0 5px 0;
+  border: solid 1px gray;
+  border-radius: 3px;
+}
+
+.x2 {
+  width: 104px;
+}
+
+button {
+  min-width: 50px;
+  height: 30px;
+  margin: 2px;
+  border: solid 1px gray;
+  border-radius: 3px;
+}
